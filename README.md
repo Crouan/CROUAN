@@ -16,9 +16,8 @@ Here you'll find projects completed during my studies as well as personal experi
 - I'am passionate about esports, especially Karmine Corp
 - Hobbies: cinema, building things, tech creativity
 
-<br>
-
-## 🛠️ Tools & Technologies
+<details>
+<summary><h3>Tools & Technologies</h3></summary>
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2300D8FF.svg?&style=flat&logo=react&logoColor=black)
@@ -48,8 +47,10 @@ Here you'll find projects completed during my studies as well as personal experi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=academia&logoColor=white)](#)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=gsap&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+
+</details>
 
 
 ## How to reach me
